@@ -2,9 +2,9 @@
 
  # Client Header 
 
-* List
-* of
-* bullet
-* points
+1. List
+1. of
+1. bullet
+1. points
 
-<p> There <span >is a bug</span> in this file</p>
+<p> There is no bug in this file</p>
